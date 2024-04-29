@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Jack Meyers</string>
+    <string name="title">Android / PERN Developer</string>
+    <string name="bio">Jack has been an Android developer since 2022 and a Linux sysop since 2001.</string>
+    <string name="id_email_text">mjmeyers@proton.me</string>
+    <string name="id_portfolio_text">https://fossmanjack.dev</string>
+    <string name="id_matrix_text">\@fossmanjack:matrix.org</string>
+    <string name="id_phone_text">+1 (585) 360-0941</string>
+    <string name="id_fedi_text">\@fossmanjack@infosec.town</string>
+    <string name="avi_desc">An image of Jack\'s head rendered in the style of The Simpsons</string>
+</resources>
