@@ -119,7 +119,7 @@ fun LinkLine(
             text = content,
             modifier = modifier,
             textAlign = TextAlign.Left,
-            color = Color.Black,
+            color = Color.White,
         )
     }
 
